@@ -1,3 +1,23 @@
+<div align="center">
+
+<img src="docs/assets/milyonus-wordmark-lg.png" alt="Milyonus" width="640" />
+
+**Milyonus desktop packaging workspace built on Pake.**
+
+[Website](https://www.milyonus.com) · [Repository](https://github.com/ayazelrico/Milyonus-Agent-in-Pake)
+
+</div>
+
+---
+
+# Milyonus Agent in Pake
+
+A Milyonus workspace based on [Pake by tw93 and contributors](https://github.com/tw93/Pake). Pake provides the Tauri-based web-to-desktop packaging layer. This README identifies the Milyonus repository; it does not claim that an additional agent runtime is implemented.
+
+Use the upstream quick start below, [CLI usage](docs/cli-usage.md), [advanced usage](docs/advanced-usage.md) and [FAQ](docs/faq.md). Preserve [LICENSE](LICENSE), [LICENSE-EXCEPTION](LICENSE-EXCEPTION) and [TRADEMARK.md](TRADEMARK.md) when distributing derivatives.
+
+## Upstream Pake documentation
+
 <h4 align="right"><strong>English</strong> | <a href="README_CN.md">简体中文</a></h4>
 <p align="center">
     <img src=https://gw.alipayobjects.com/zos/k/fa/logo-modified.png width=138/>
